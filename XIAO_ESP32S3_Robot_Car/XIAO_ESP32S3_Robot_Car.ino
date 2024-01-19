@@ -9,7 +9,7 @@
 
 
 const char* ssid = "prateeksingh";   //Enter SSID WIFI Name
-const char* password = "kumar@12345";   //Enter WIFI Password
+const char* password = "12345";   //Enter WIFI Password
 
 
 #if defined(CAMERA_MODEL_XIAO_ESP32S3)
